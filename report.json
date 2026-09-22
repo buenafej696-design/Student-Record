@@ -1,0 +1,32 @@
+{
+  "totalStudents": 12,
+  "overallAverage": 73.53,
+  "topStudent": {
+    "id": 3,
+    "name": "Ana Reyes",
+    "year": 1,
+    "course": "Computer Science",
+    "grades": [
+      95,
+      98,
+      97,
+      99,
+      100
+    ],
+    "enrolled": true
+  },
+  "courseBreakdown": [
+    {
+      "course": "Data Science",
+      "average": 86.07
+    },
+    {
+      "course": "Computer Science",
+      "average": 84.25
+    },
+    {
+      "course": "Information Technology",
+      "average": 50.73
+    }
+  ]
+}
